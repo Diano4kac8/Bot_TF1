@@ -14,9 +14,9 @@ theme: /
         intent!: /пока
         a: Пока пока
     
-    state: Hello
+    state: Kak
         intent!: /как ты
-        a: норм
+        a: Норм
 
     state: NoMatch
         event!: noMatch
