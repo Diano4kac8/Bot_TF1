@@ -9,14 +9,15 @@ theme: /
     state: Hello
         intent!: /привет
         a: Привет привет
+        
+    state: K
+        intent!: /как ты
+        a: Нормально
 
     state: Bye
         intent!: /пока
         a: Пока пок
         
-    state: K
-        intent!: /как ты
-        a: Нормально
 
     state: NoMatch
         event!: noMatch
