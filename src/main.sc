@@ -16,7 +16,7 @@ theme: /
         
     state: K
         intent!: /как ты
-        a: нормально
+        a: Нормально
 
     state: NoMatch
         event!: noMatch
