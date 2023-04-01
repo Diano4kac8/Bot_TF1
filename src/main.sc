@@ -13,6 +13,10 @@ theme: /
     state: Bye
         intent!: /пока
         a: Пока пок
+        
+    state: K
+        intent!: /как ты
+        a: нормально
 
     state: NoMatch
         event!: noMatch
